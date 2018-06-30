@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "InstrumentationViewController.(prepare(for : UIStoryboardSegue, sender : Any?) -&gt; ()).(closure #1):InstrumentationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "StandardEngine.sharedInstance">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SimulationViewController.stepButtonPressed(sender : UIButton) -&gt; ():SimulationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "StandardEngine.sharedInstance">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ConfigurationController.viewDidLoad() -&gt; ():ConfigurationController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "InstrumentationViewController.switchToggled(sender : UISwitch) -&gt; ():InstrumentationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "StandardEngine.sharedInstance">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

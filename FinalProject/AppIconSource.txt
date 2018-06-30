@@ -1,0 +1,15 @@
+App Icon Source:
+
+Here are the sources for the AppIcons uses. The website's instructions for citing were unclear so I've included a text file with the project
+
+<a href="https://icons8.com/icon/21637/Horizontal-Settings-Mixer">Horizontal settings mixer icon credits</a>
+
+<a href="https://icons8.com/icon/21697/Horizontal-Settings-Mixer-Filled">Horizontal settings mixer filled icon credits</a>
+
+<a href="https://icons8.com/icon/3005/Combo-Chart">Combo chart icon credits</a>
+
+<a href="https://icons8.com/icon/8322/Combo-Chart-Filled">Combo chart filled icon credits</a>
+
+<a href="https://icons8.com/icon/398/Play">Play icon credits</a>
+
+<a href="https://icons8.com/icon/9978/Play-Filled">Play filled icon credits</a>
